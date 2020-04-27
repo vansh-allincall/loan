@@ -9,7 +9,40 @@
       "interestPaymentFrequency": "Montly",
       "extraCharges": "0",
       "nextPendingInstallment": "Rs. 1,330",
-      "dueDate": "1 December 2020"
+      "dueDate": "1 December 2020",
+      "installmentsPaid": [],
+      "installmentsLeft": [
+        {
+          "date": "24 April 2020",
+          "amount": "1330",
+          "daysLeft": "30"
+        },
+        {
+          "date": "24 May 2020",
+          "amount": "1330",
+          "daysLeft": "60"
+        },
+        {
+          "date": "24 June 2020",
+          "amount": "1330",
+          "daysLeft":"90"
+        },
+        {
+          "date": "24 July 2020",
+          "amount": "1330",
+          "daysLeft": "120"
+        },
+        {
+          "date": "24 August 2020",
+          "amount": "1330",
+          "daysLeft": "150"
+        },
+        {
+          "date": "24 September 2020",
+          "amount": "1330",
+          "daysLeft": "180"
+        }
+      ]
     },
     {
       "loanNumber":"222",
@@ -20,7 +53,9 @@
       "interestPaymentFrequency": "Quaterly",
       "extraCharges": "0",
       "nextPendingInstallment": "Rs. 2,540",
-      "dueDate": "20 October 2020"
+      "dueDate": "20 October 2020",
+      "installmentsPaid": [],
+      "installmentsLeft": []
     }
   ]
 }
