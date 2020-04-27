@@ -7,7 +7,9 @@
       "applicableInterestRate": "1.33%",
       "repaymentTenure": "12 Months",
       "interestPaymentFrequency": "Montly",
-      "extraCharges": "0"
+      "extraCharges": "0",
+      "nextPendingInstallment": "Rs. 1,330",
+      "dueDate": "1 December 2020"
     },
     {
       "loanNumber":"222",
@@ -16,7 +18,9 @@
       "applicableInterestRate": "1.59%",
       "repaymentTenure": "12 Months",
       "interestPaymentFrequency": "Quaterly",
-      "extraCharges": "0"
+      "extraCharges": "0",
+      "nextPendingInstallment": "Rs. 2,540",
+      "dueDate": "20 October 2020"
     }
   ]
 }
