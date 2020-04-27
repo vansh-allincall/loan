@@ -1,0 +1,13 @@
+{
+  "myloans": [
+    {
+      "loanNumber":"123",
+      "issueDate": "24 April 2020",
+      "amount": "Rs. 1,00,000",
+      "applicableInterestRate": "1.39%",
+      "repayemntTenure": "12 Months",
+      "interestPaymentFrequency": "Montly",
+      "extraCharges": "0"
+    }
+  ]
+}
