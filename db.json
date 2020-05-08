@@ -60,7 +60,26 @@
       "extraCharges": "0",
       "nextPendingInstallment": "Rs. 2,540",
       "dueDate": "20 October 2020",
-      "installmentsPaid": [],
+      "installmentsPaid": [
+        {
+          "date": "24 April 2020",
+          "amount": "1330",
+          "paid": true,
+          "daysLeft": "30"
+        },
+        {
+          "date": "24 May 2020",
+          "amount": "1330",
+          "paid": true,
+          "daysLeft": "60"
+        },
+        {
+          "date": "24 June 2020",
+          "amount": "1330",
+          "paid": true,
+          "daysLeft":"90"
+        },
+      ],
       "installmentsLeft": []
     }
   ]
