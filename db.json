@@ -15,6 +15,7 @@
         {
           "date": "24 April 2020",
           "amount": "1330",
+          "paid": true,
           "daysLeft": "30"
         },
         {
@@ -25,21 +26,25 @@
         {
           "date": "24 June 2020",
           "amount": "1330",
+          "paid": true,
           "daysLeft":"90"
         },
         {
           "date": "24 July 2020",
           "amount": "1330",
+          "paid": true,
           "daysLeft": "120"
         },
         {
           "date": "24 August 2020",
           "amount": "1330",
+          "paid": false,
           "daysLeft": "150"
         },
         {
           "date": "24 September 2020",
           "amount": "1330",
+          "paid": false,
           "daysLeft": "180"
         }
       ]
